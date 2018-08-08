@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TareaMoviles3</string>
+    <string name="txtBtnIniciar">INICIAR</string>
+    <string name="txtTitulo">Bienvenido al creador de historias</string>
+    <string name="txtInstrucciones">Contesta a todas las preguntas</string>
+    <string name="txtPregunta1">Como te llamas</string>
+    <string name="txtPregunta2">asdasd</string>
+    <string name="txtPregunta3">asdasd</string>
+    <string name="txtPregunta4">asdasdas</string>
+    <string name="txtHistoriaFinal">Habia una vez un hombre llamado %s que estaba sentado en un %s
+                                    y se encontro un %s adasdasdsds %s</string>
+    <string name="txtBtnSiguiente">SIGUIENTE</string>
+    <string name="txtBtnFinalizar">FINALIZAR</string>
+    <string name="txtBtnReiniciar">REINICIAR</string>
+</resources>
