@@ -5,16 +5,16 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 
-public class Pregunta1 extends AppCompatActivity {
+public class Historia extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_pregunta1);
+        setContentView(R.layout.activity_historia);
     }
 
-    public void OnClick2 (View view){
-        startActivity(new Intent(Pregunta1.this,Pregunta2.class));
+    public void OnClick6 (View view){
+        startActivity(new Intent(Historia.this,MainActivity.class));
 
     }
 }
